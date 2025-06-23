@@ -56,6 +56,5 @@ The code is modular and written in C using AVR libraries. Main modules include:
 
 ## 📚 References
 
-- [DHT11 Datasheet](link)
 - [AVR-DHT11 Library](https://github.com/ryanj1234/AVR-DHT11)
 
